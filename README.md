@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Kumar</h1>
-<h3 align="center">CSE 3rd year undergraduate in B.Tech and A passionate developer.</h3>
+<h3 align="center">CSE - 3rd Year undergraduate in B.Tech and A passionate developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitkumar07&label=Profile%20views&color=0e75b6&style=flat" alt="harshitkumar07" /> </p>
 
