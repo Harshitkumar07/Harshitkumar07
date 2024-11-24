@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA and developer tools.**
 
-- 💬 Ask me about **Different programming languages .**
+- 💬 Ask me about **Different programming languages and tools.**
 
 - 📫 How to reach me **kumarharshit9911@gmail.com or csds22137@glbitm.ac.in**
 
